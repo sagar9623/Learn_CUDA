@@ -84,7 +84,7 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
 
 - **Motherboard:** Central hub connecting CPU, GPU, and other components.
 
-![Motherboard Image]([path/to/motherboard_image.png](https://github.com/sagar9623/Learn_CUDA/blob/main/Motherboard.png))
+![Motherboard Image](https://github.com/sagar9623/Learn_CUDA/blob/main/Motherboard.png)
 
 #### Motherboard Components
 
