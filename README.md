@@ -16,7 +16,7 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
 
 ## NVIDIA History
 
-### Video 1: The Founding and Early Products
+### The Founding and Early Products
 
 - **1993:** NVIDIA was founded by Jensen Huang.
 - **1995:** Launch of first hardware product, NV1.
@@ -49,7 +49,7 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
     - **Memory Type:** SDR
     - **Bus Width:** 64-bit
 
-## Video 2: CPU vs GPU
+## CPU vs GPU
 
 ### Introduction to GPU Architecture
 
@@ -145,7 +145,7 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
   4. Store results in shared memory.
   5. Return results to GPU memory.
 
-## Video 3: NVIDIA GPU Architectures and Generations
+## NVIDIA GPU Architectures and Generations
 
 ### GPU Architecture
 
