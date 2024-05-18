@@ -1,10 +1,9 @@
 # Learn CUDA by Joamon
 
-Welcome to the **CUDA Parallel Programming Course**! This repository contains notes and resources for learning CUDA, based on a tutorial series by Hamdy Abdelkhalik.
+Welcome to the **CUDA Parallel Programming Course**! This repository contains notes and resources for learning CUDA.
 
 ## Course Overview
-
-**Tutorial by:** Hamdy Abdelkhalik  
+ 
 **YouTube Link:** [CUDA Tutorial Series](https://www.youtube.com/watch?v=ZZveGGevzk8&list=PLBQlPZZ80yqRVrt99CsmYY77MLaenKVa8)
 
 ### Contents
