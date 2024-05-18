@@ -110,16 +110,16 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
 
 ### NVIDIA GPU Components
 
-![NVIDIA GPU Image](path/to/nvidia_gpu_image.png)
+![NVIDIA GPU Image](https://github.com/sagar9623/Learn_CUDA/blob/main/Nvidia%20GPU.png)
 
 1. **SM (Streaming Multiprocessor)**
-   - Manages parallel tasks, contains multiple CUDA cores.
+   - Manages parallel tasks, and contains multiple CUDA cores.
 2. **L2 Cache Memory**
    - Stores recently accessed data for faster retrieval.
 3. **Device Global Memory**
    - Main memory for data storage, accessible by all cores and SMs.
 4. **Scheduler**
-   - Decides which tasks (kernels) to execute next.
+   - Decide which tasks (kernels) to execute next.
 5. **Dispatcher**
    - Sends tasks to SMs for execution.
 
