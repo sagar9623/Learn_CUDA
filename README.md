@@ -18,7 +18,7 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
 
 ### Video 1: The Founding and Early Products
 
-- **1993:** NVIDIA founded by Jensen Huang.
+- **1993:** NVIDIA was founded by Jensen Huang.
 - **1995:** Launch of first hardware product, NV1.
   - **Specifications of NV1:**
     - **GPU:** 2MB
@@ -31,7 +31,7 @@ Welcome to the **CUDA Parallel Programming Course**! This repository contains no
     - **Pixel Shaders:** 1
     - **Graphics Processor:** NV1
     - **Memory Type:** EDO (Extended Data Out)
-      - *Explanation:* Faster than previous FPM memory, used in 1990s.
+      - *Explanation:* Faster than previous FPM memory, used in the 1990s.
     - **Vertex Shaders:** N/A
       - *Explanation:* Manipulates vertex attributes in 3D objects.
 
