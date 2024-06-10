@@ -56,11 +56,11 @@
   7.  Memory type SDR
   8.  Bus Width 64-bit
 
-          																*ABOVE IS HISTORY OF NVIDIA *
+                  *ABOVE IS HISTORY OF NVIDIA *
 
 - Video 2:
 
-      																*The difference between CPUs & GPUs*
+							*The difference between CPUs & GPUs*
 
 - Introduction to GPU Architecture
 - Basic knowledge of GPU hardware architecture with Nvidia designs.
