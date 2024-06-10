@@ -74,8 +74,8 @@ Component CPU GPU
 Purpose General-purpose Graphics rendering
 Computing parallel tasks
 
-    Cores(ALU)				Fewer(usually up to																					Many(from hundreds
-    					32 Cores)																																					to thousands of core)
+    Cores(ALU)				Fewer(usually up to																																				Many(from hundreds
+    				32 Cores)																																					to thousands of core)
 
     Architecture				Designed for sequential																	Designed for parallel
     							processing																				processing
@@ -139,7 +139,7 @@ R4=R1*R5 store the result in R1, our multiplication doesn't
  R4=8*4 depends on the outcome of the addition, instead it
 R4=32 multiplies the values from R5 and R6 and stores the
 Next, we Multiply, the Value stored in R1 with R5 to store the result in R4. same with division it doesn't depend
-the outcome value in R4, the crucial point to note here is the outcome of the multiplication.with such
+the outcome value in R4, the crucial point to note here is the outcome of the multiplication. with such
 the interdependency of these instructions, as the second Independence between the instruction, if we have
 instruction uses R1 the same register that uses multiple core available we can assign each
 in the first instruction(or in the preceding addition). instruction to a separate core and execute them
