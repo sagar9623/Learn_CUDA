@@ -21,7 +21,7 @@
   1.  GPU: 2MB
   2.  64-bit of BUS Width
       A. A BUS Width refers to the number of bits that can be transferred across the bus, it's a crucial specification that determines the speed and efficiency of the data transfer between the components such as CPU and RAM.
-      B., For example, you must have seen 32 32-bit or 64-bit operating systems in your 'This PC Properties', which means that your operating system is capable of transfering the data up to the bits between CPU, RAM, and other peripherals.
+      B., For example, you must have seen 32 32-bit or 64-bit operating systems in your 'This PC Properties', which means that your operating system is capable of transferring the data up to the bits between CPU, RAM, and other peripherals.
       C. A wider bus allows for faster data transfer rates, as more data can be transmitted in parallel.
 
   3.  TMU:1 (Texture Mapping Units)
@@ -33,7 +33,7 @@
       5. Pixel Shaders:1 ( Core )
       6. Graphics Processor: NV1
       7. EDO Memory Type( Extended Data Out)
-         A. An EDO memory is a type of computer memory that was used in older systems, during 1990s. It was an improvement over the previous FPM ( Fast Page Mode ) memory technology and was commonly used in systems like Pentium-based computers.
+         A. An EDO memory is a type of computer memory that was used in older systems, during the 1990s. It was an improvement over the previous FPM ( Fast Page Mode ) memory technology and was commonly used in systems like Pentium-based computers.
          B. The key feature of the EDO was its ability to allow the CPU to access memory more quickly than FPM memory.
          C. EDO memory was eventually replaced by SDRAM (Synchronous Dynamic Random Access Memory) due to its even faster access times and improved efficiency.
 
@@ -74,8 +74,8 @@ Component CPU GPU
 Purpose General-purpose Graphics rendering
 Computing parallel tasks
 
-    Cores(ALU)					Fewer(usually upto																		Many(from hundreds
-    							32 Cores)																				to thousands of core)
+    Cores(ALU)				Fewer(usually up to																					Many(from hundreds
+    					32 Cores)																																					to thousands of core)
 
     Architecture				Designed for sequential																	Designed for parallel
     							processing																				processing
