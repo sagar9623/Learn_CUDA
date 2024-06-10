@@ -1,5 +1,5 @@
-          CUDA Parallel Programming Course
-              Learn_CUDA_by_Joamon
+                                                                      CUDA Parallel Programming Course
+                                                                          Learn_CUDA_by_Joamon
 
 - Tutorial: By Hamdy Abdelkhalik
 - Link: https://www.youtube.com/watch?v=ZZveGGevzk8&list=PLBQlPZZ80yqRVrt99CsmYY77MLaenKVa8
